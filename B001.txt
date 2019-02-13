@@ -1,0 +1,15 @@
+d.txt
+
+ D E A F # A R T
+ # # B # # B # #
+ # # D # # E # #
+ A M O U N T # #
+ # # M # # # # #
+ # # E # # # # #
+ # # N # # # # #
+
+ AfV ABET
+ DaH AMOUNT
+ AaH DEAF
+ AfH ART
+ AcV ABDOMEN

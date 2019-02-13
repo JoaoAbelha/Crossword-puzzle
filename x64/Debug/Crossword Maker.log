@@ -1,0 +1,6 @@
+﻿  Board.cpp
+c:\users\joão abelha\desktop\crossword puzzle (ultima versão)\crossword maker\board.cpp(21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\joão abelha\desktop\crossword puzzle (ultima versão)\crossword maker\board.cpp(22): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\joão abelha\desktop\crossword puzzle (ultima versão)\crossword maker\board.cpp(76): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\joão abelha\desktop\crossword puzzle (ultima versão)\crossword maker\board.cpp(77): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Crossword Maker.vcxproj -> C:\Users\João Abelha\Desktop\Crossword Puzzle (ultima versão)\x64\Debug\Crossword Maker.exe
